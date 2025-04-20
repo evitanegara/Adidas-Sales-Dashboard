@@ -16,7 +16,7 @@ Adidas, like any retail brand, relies on data-driven insights to track performan
 
 # Visualization
 ![Adidas Dashboard](https://github.com/evitanegaraputri4/Adidas-Sales-Dashboard/blob/main/Adidas%20Dashboard.png?raw=true)
-![Details Dashboard](https://raw.githubusercontent.com/evitanegaraputri4/Adidas-Sales-Dashboard/main/Adidash%20Details%20Dashboard.png)
+![Adidas Details](https://github.com/evitanegaraputri4/Adidas-Sales-Dashboard/blob/main/Dashboard%20Details.png?raw=true)
 
 
 # Dashboard Features 

@@ -15,7 +15,7 @@ Adidas, like any retail brand, relies on data-driven insights to track performan
 - Insights Generation: Integrated slicers and filters for user-driven exploration and deeper insight.
 
 # Visualization
-![Overview Dashboard](https://raw.githubusercontent.com/evitanegaraputri4/Adidas-Sales-Dashboard/main/Adidas%20Overview%20Dashbaord.png)
+
 ![Details Dashboard](https://raw.githubusercontent.com/evitanegaraputri4/Adidas-Sales-Dashboard/main/Adidash%20Details%20Dashboard.png)
 
 

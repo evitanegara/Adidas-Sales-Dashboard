@@ -28,31 +28,39 @@ Adidas, like any retail brand, relies on data-driven insights to track performan
 - Dynamic Filtering: Slicers by Region, Product, and Retailer for tailored views.
 - Dual Pages: Separate overview and detailed data table views for broader analysis.
 
-# Key Insight
-1. Sales Performance (YTD vs PYTD)
-- Total Sales increased by +$535.74M, marking a YoY growth of 294.2%.
-- This significant surge indicates a successful strategic shift in marketing, product distribution, or seasonal promotions between the two years.
-2. Unit Sold Growth
-- Units sold rose by +1.55M, a 336.1% YoY growth.
-- This reflects not only increased demand but possibly enhanced distribution efficiency, broader market penetration, or successful pricing strategies.
-3. Operating Profit Performance
-- Operating profit increased by $205.38M, a 324.1% YoY gain.
-- The profit margin appears to remain strong, indicating cost control efforts or higher-margin products driving performance.
-4. Sales Trend (Monthly View)
-- July marks the peak month with ~$78M in sales, followed by a slight dip and a strong recovery in December.
-- Suggests a mid-year promotional push or product launch in summer and holiday season effect in Q4.
-- Recommendation: Plan future campaigns around July and December spikes.
-5. Sales by Region
-- The West and Southeast regions dominate in total sales.
-- Regions like the Midwest and Northeast could be targeted for growth opportunities with tailored marketing or improved distribution.
-6. Sales by Product Type
-- Men’s Street Footwear and Women’s Apparel are leading categories.
-- Underperforming categories could benefit from discounting, better placement, or promotions.
-7. Retailer Performance
-- Foot Locker, Sports Direct, and West Gear are top contributors, with Foot Locker capturing ~24.7% of YTD sales.These retailers could be offered exclusive product lines or partner promotions to boost loyalty and push volume.
-- Lower-performing retailers (e.g., Walmart) might need tailored marketing or better product assortment.
-8. Geographical Distribution
-- High sales concentration in states like California and Texas, suggesting major urban markets drive volume.
+#Overview of Findings
+Adidas experienced explosive sales growth from 2020 to 2021, with total revenue increasing by** $535.74M (+294.2%)** and units sold jumping 336.1%. This suggests a well-executed sales strategy involving mid-year product launches and strong year-end promotions. Profitability also followed suit, with operating profit rising $205.38M (+324.1%), showing healthy margins.
+
+#Sales Trend
+- Peak Performance: Sales peaked in July ($78M) and rebounded again in December, possibly due to seasonal promotions and end-of-year campaigns.
+- Growth Opportunities: Months like April and October show relative dips, presenting opportunities for targeted campaigns or new product drops.
+- Insight: A playbook combining mid-year launches and Q4 promotions appears to be effective.
+
+# Regional Performance
+- The West and Northteast regions led in total sales, signaling strong brand presence.
+- Regions like Midwest and Northeast lagged slightly—marketing initiatives here could yield higher returns.
+- Recommendation: Deploy geo-targeted marketing or improved distribution channels in underperforming regions.
+
+#Product Category Insights
+- Top Sellers: Men's Street Footwear and Women's Apparel.
+- Lagging Categories: Women's Athletic Footwear underperformed—possibly due to limited visibility or poor targeting.
+- Recommendation: Test bundle offers, influencer promotions, or targeted discounts for underperforming categories.
+
+# Retailer Breakdown
+- Top Performers: Foot Locker (24.7% share), Sports Direct, and West Gear.
+- Opportunity Areas: Walmart contributed just 5.8%—perhaps due to weaker assortment or lack of exclusive deals.
+- Recommendation: Strengthen partnerships with high-performing retailers and tailor offers for weaker ones.
+
+# Geographic Distribution
+- High sales density in California, Texas, and parts of the East Coast.
+- Insight: Focus future campaigns on high-potential states with population density and brand affinity.
+
+Recommendations
+- Launch Campaigns Strategically: Maximize July and December sales by formalizing product release cycles and holiday bundles.
+- Geo-Targeting for Growth: Invest in ads or partnerships in regions with below-average performance.
+- Strengthen Retail Partnerships: Offer exclusive drops to high-performing retailers; revamp assortments in lagging ones.
+- Product Portfolio Optimization: Promote low performers through pricing, placement, or influencer support.
+- Visual Enhancement: Consider adding percentage growth labels, average lines, and conditional bar formatting to make trends clearer.
 
 # Conlusion 
 This Power BI dashboard provides a real-time view of Adidas's business performance. The clean visuals, intuitive layout, and strategic breakdown of KPIs make it an excellent tool for stakeholders. The insights derived from this dashboard can directly inform marketing, inventory, and operational decisions.

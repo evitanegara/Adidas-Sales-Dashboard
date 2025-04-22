@@ -28,34 +28,34 @@ Adidas, like any retail brand, relies on data-driven insights to track performan
 - Dynamic Filtering: Slicers by Region, Product, and Retailer for tailored views.
 - Dual Pages: Separate overview and detailed data table views for broader analysis.
 
-#Overview of Findings
+# Overview of Findings
 Adidas experienced explosive sales growth from 2020 to 2021, with total revenue increasing by** $535.74M (+294.2%)** and units sold jumping 336.1%. This suggests a well-executed sales strategy involving mid-year product launches and strong year-end promotions. Profitability also followed suit, with operating profit rising $205.38M (+324.1%), showing healthy margins.
 
-#Sales Trend
+1. Sales Trend
 - Peak Performance: Sales peaked in July ($78M) and rebounded again in December, possibly due to seasonal promotions and end-of-year campaigns.
 - Growth Opportunities: Months like April and October show relative dips, presenting opportunities for targeted campaigns or new product drops.
 - Insight: A playbook combining mid-year launches and Q4 promotions appears to be effective.
 
-# Regional Performance
+2. Regional Performance
 - The West and Northteast regions led in total sales, signaling strong brand presence.
 - Regions like Midwest and Northeast lagged slightly—marketing initiatives here could yield higher returns.
 - Recommendation: Deploy geo-targeted marketing or improved distribution channels in underperforming regions.
 
-#Product Category Insights
+3. Product Category Insights
 - Top Sellers: Men's Street Footwear and Women's Apparel.
 - Lagging Categories: Women's Athletic Footwear underperformed—possibly due to limited visibility or poor targeting.
 - Recommendation: Test bundle offers, influencer promotions, or targeted discounts for underperforming categories.
 
-# Retailer Breakdown
+4. Retailer Breakdown
 - Top Performers: Foot Locker (24.7% share), Sports Direct, and West Gear.
 - Opportunity Areas: Walmart contributed just 5.8%—perhaps due to weaker assortment or lack of exclusive deals.
 - Recommendation: Strengthen partnerships with high-performing retailers and tailor offers for weaker ones.
 
-# Geographic Distribution
+5. Geographic Distribution
 - High sales density in California, Texas, and parts of the East Coast.
 - Insight: Focus future campaigns on high-potential states with population density and brand affinity.
 
-Recommendations
+# Recommendations
 - Launch Campaigns Strategically: Maximize July and December sales by formalizing product release cycles and holiday bundles.
 - Geo-Targeting for Growth: Invest in ads or partnerships in regions with below-average performance.
 - Strengthen Retail Partnerships: Offer exclusive drops to high-performing retailers; revamp assortments in lagging ones.

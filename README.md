@@ -41,7 +41,7 @@ Adidas, like any retail brand, relies on data-driven insights to track performan
 4. Sales Trend (Monthly View)
 - July marks the peak month with ~$78M in sales, followed by a slight dip and a strong recovery in December.
 - Suggests a mid-year promotional push or product launch in summer and holiday season effect in Q4.
-- Planning campaigns around these peaks could maximize future ROI.
+- Recommendation: Plan future campaigns around July and December spikes.
 5. Sales by Region
 - The West and Southeast regions dominate in total sales.
 - Regions like the Midwest and Northeast could be targeted for growth opportunities with tailored marketing or improved distribution.

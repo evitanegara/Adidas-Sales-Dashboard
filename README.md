@@ -68,7 +68,11 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **March ($57M)** and **February ($61M)** have the lowest sales.
 - **October ($64M)** and **November ($68M)** are slightly below the annual average.
 - Average monthly sales hover around **$75M**, with **May ($81M)** and **June ($75M)** just above the baseline.
-  ![image](https://github.com/user-attachments/assets/5f309d55-e8b1-4f2c-8a3b-202393575381)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc015aba-73a9-45f0-ab64-10153e23cd10" alt="Adidas Bottom States by Sales and Units" width="700"/>
+</p>
+
+
 
 
 ### 3. Total Units Sold by Product
@@ -76,7 +80,11 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **Men’s Athletic Footwear (436K)** and **Women’s Apparel (434K)** follow closely.
 - **Women’s Street Footwear (392K)** and **Women’s Athletic Footwear (317K)** also perform well.
 - **Men’s Apparel** is the lowest-selling category at **307K units**.
-- ![image](https://github.com/user-attachments/assets/495b4f0e-ef54-4a5c-bfbc-9b6cbd6e8c6b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23dce29d-ffb7-44b0-b248-17adbc812bb1" alt="Adidas State-Level Sales and Units" width="700"/>
+</p>
+
+
 
 
 ### 4. Sales by Retailer and Sales Method
@@ -84,7 +92,11 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **Foot Locker** shows a balanced mix: in-store, online, and outlet channels each contribute over **$70M**.
 - **Sports Direct** and **Kohl's** rely heavily on **outlet sales** ($68M and $42M).
 - **Amazon** is mostly **online-focused**, while **Walmart** shows low in-store and online figures but performs better in **outlet** ($43M).
-  ![image](https://github.com/user-attachments/assets/0428fef6-cd29-49bf-9d7b-951ae8d64ede)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/474a0821-4cee-4f7c-aaed-2a34ed344b95" alt="Adidas Geographic Sales Overview" width="700"/>
+</p>
+
+
 
 
 ### 5. Sales by Region
@@ -92,7 +104,11 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **Northeast** follows with **$186.3M** (21%), together comprising nearly **half of total sales**.
 - **Southeast ($163.2M)** and **South ($144.7M)** follow.
 - **Midwest** records the lowest at **$135.8M** (15%).
-  ![image](https://github.com/user-attachments/assets/0317d28c-e9a1-4d65-aec0-8cb5eef6dadc)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96b0dc4c-b39f-43ea-ab64-d0f8e0f78a79" alt="Adidas Sales by Retailer and Channel" width="700"/>
+</p>
+
+
 
 
 ### 6. Geographic Sales Overview
@@ -100,7 +116,10 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - These four states account for a substantial portion of national sales and volume.
 - **South Carolina ($29.3M)** and **Washington ($26.3M)** fall mid-range.
 - **Nebraska ($5.9M, 19K units)**, **Minnesota ($7.4M)**, and **Iowa ($7.4M)** are the **bottom three states**, with sales under $8M and low unit volumes.
-![image](https://github.com/user-attachments/assets/ddaa449e-b9aa-4388-8bbb-4fd6d960520c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1be476d2-58fc-4515-a42c-64ce98e55579" alt="Adidas Sales by Region" width="700"/>
+</p>
+
 
 ---
 

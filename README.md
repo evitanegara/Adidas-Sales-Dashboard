@@ -1,69 +1,105 @@
-# Business Understanding
-Adidas, like any retail brand, relies on data-driven insights to track performance, understand consumer behavior, and identify market opportunities. An interactive sales dashboard can help stakeholders monitor critical KPIs in real-time—empowering strategic decisions, improving operational efficiency, and boosting profitability.
+# Adidas Sales Analysis Dashboard
 
-# Project objectives :
-- Create a dynamic, easy-to-navigate dashboard in Power BI to visualize Adidas sales performance based on Adidas sales data from 2020 and 2021.
-- Track essential KPIs like Total Sales, Units Sold, and Operating Profit across various timeframes.
-- Provide YOY (Year-over-Year), MTD (Month-to-Date), and YTD (Year-to-Date) breakdowns.
-- Analyze trends by region, product, and retailer.
-- Enhance decision-making with actionable insights.
+## Project Background
 
-# Key Steps
-- Data Preparation & Modeling: Cleaned and structured the data model in Power BI, ensuring relationships between tables were correctly defined.
-- DAX Calculations: Created custom DAX measures to compute KPIs, including: YTD/MTD Sales, YOY Growth (%), Sales Difference (YTD vs PYTD), Operating Profit and Units Sold growth
-- Dashboard Design: Used a clean, modern layout with consistent colors and custom icons for clarity and engagement.
-- Insights Generation: Integrated slicers and filters for user-driven exploration and deeper insight.
+This project analyzes Adidas sales performance across retailers, regions, and product categories using an interactive Power BI dashboard. It delivers visual insights into product trends, geographic performance, and sales channel efficiency to support data-driven decisions in marketing, merchandising, and supply chain planning. From identifying top-selling products by region to tracking seasonal sales peaks and evaluating sales methods, the dashboard balances high-level overviews with detailed transaction-level insights.
 
-# Visualization
-![Adidas Overview](https://github.com/evitanegaraputri4/Adidas-Sales-Dashboard/blob/main/Dashboard%20Overview.png?raw=true)
-![Adidas Details](https://github.com/evitanegaraputri4/Adidas-Sales-Dashboard/blob/main/Dashboard%20Details.png?raw=true)
+---
 
+## Dataset Overview
 
-# Dashboard Features 
-- Top KPI Cards: YTD Total Sales, Units Sold, and Operating Profit with % growth indicators.
-- Sales Trend: Monthly YTD trendline to visualize seasonal performance.
-- Regional and Product Performance: Donut and pie charts for segment-wise analysis.
-- Retailer Breakdown: Ranked performance by units, profit, and contribution to total sales.
-- Geographical Mapping: Units sold by U.S. state, presented with a shaded heat map.
-- Dynamic Filtering: Slicers by Region, Product, and Retailer for tailored views.
-- Dual Pages: Separate overview and detailed data table views for broader analysis.
+The dataset contains transactional-level records with the following structure:
 
-# Overview of Findings
-Adidas experienced explosive sales growth from 2020 to 2021, with total revenue increasing by** $535.74M (+294.2%)** and units sold jumping 336.1%. This suggests a well-executed sales strategy involving mid-year product launches and strong year-end promotions. Profitability also followed suit, with operating profit rising $205.38M (+324.1%), showing healthy margins.
+| Column            | Description                                        |
+|-------------------|----------------------------------------------------|
+| Retailer          | Name of the retailer selling Adidas goods          |
+| Retailer ID       | Unique identifier for each retailer                |
+| Invoice Date      | Transaction date                                   |
+| Region            | Geographic region (e.g., Northeast, West)          |
+| State             | U.S. state where the transaction occurred          |
+| City              | City where the transaction occurred                |
+| Product           | Product category                                   |
+| Price per Unit    | Unit price of the product                          |
+| Units Sold        | Quantity sold                                      |
+| Total Sales       | Total revenue from the transaction                 |
+| Operating Profit  | Profit from the sale                               |
+| Operating Margin  | Profit margin in percentage                        |
+| Sales Method      | Sales channel (In-store, Online, Outlet)           |
 
-1. Sales Trend
-- Peak Performance: Sales peaked in July ($78M) and rebounded again in December, possibly due to seasonal promotions and end-of-year campaigns.
-- Growth Opportunities: Months like April and October show relative dips, presenting opportunities for targeted campaigns or new product drops.
-- Insight: A playbook combining mid-year launches and Q4 promotions appears to be effective.
+> Power BI was used for data modeling, cleaning, and visualization.
 
-2. Regional Performance
-- The West and Northteast regions led in total sales, signaling strong brand presence.
-- Regions like Midwest and Northeast lagged slightly—marketing initiatives here could yield higher returns.
-- Recommendation: Deploy geo-targeted marketing or improved distribution channels in underperforming regions.
+---
 
-3. Product Category Insights
-- Top Sellers: Men's Street Footwear and Women's Apparel.
-- Lagging Categories: Women's Athletic Footwear underperformed—possibly due to limited visibility or poor targeting.
-- Recommendation: Test bundle offers, influencer promotions, or targeted discounts for underperforming categories.
+## 📈 Executive Summary
 
-4. Retailer Breakdown
-- Top Performers: Foot Locker (24.7% share), Sports Direct, and West Gear.
-- Opportunity Areas: Walmart contributed just 5.8%—perhaps due to weaker assortment or lack of exclusive deals.
-- Recommendation: Strengthen partnerships with high-performing retailers and tailor offers for weaker ones.
+The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units sold**, with an **operating profit of $332M**. Key sales are driven through in-store methods, with top-performing products being men's footwear. Geographically, the Northeast and West regions account for nearly half of the total revenue. This dashboard enables a deeper understanding of product and channel-level performance for data-driven retail decision-making.
 
-5. Geographic Distribution
-- High sales density in California, Texas, and parts of the East Coast.
-- Insight: Focus future campaigns on high-potential states with population density and brand affinity.
+---
 
-# Recommendations
-- Launch Campaigns Strategically: Maximize July and December sales by formalizing product release cycles and holiday bundles.
-- Geo-Targeting for Growth: Invest in ads or partnerships in regions with below-average performance.
-- Strengthen Retail Partnerships: Offer exclusive drops to high-performing retailers; revamp assortments in lagging ones.
-- Product Portfolio Optimization: Promote low performers through pricing, placement, or influencer support.
-- Visual Enhancement: Consider adding percentage growth labels, average lines, and conditional bar formatting to make trends clearer.
+##  Insights Deep-Dive
 
-# Conlusion 
-This Power BI dashboard provides a real-time view of Adidas's business performance. The clean visuals, intuitive layout, and strategic breakdown of KPIs make it an excellent tool for stakeholders. The insights derived from this dashboard can directly inform marketing, inventory, and operational decisions.
+### 1. Sales by Retailer and Product
+- **West Gear** leads with **$243M**, driven by **Men’s Street Footwear ($53M)** and **Women’s Apparel ($47M)**.
+- **Foot Locker** follows with **$220M**, with top sales in **Men’s Street Footwear ($57M)** and **Women’s Street Footwear ($36M)**.
+- **Sports Direct** generates **$182M**, mainly from **Men’s Athletic Footwear ($39M)** and **Women’s Apparel ($37M)**.
+- **Kohl’s** records **$102M**, led by **Women’s Apparel ($20M)** and **Men’s Street Footwear ($28M)**.
+- **Amazon** and **Walmart** trail behind with total sales around **$78M** and **$75M** respectively.
 
-# Contact 
-For any questions or inquiries, please contact evitanegara@gmail.com
+### 2. Monthly Sales Trend
+- **July** is the peak month at **$95M**, followed by **August ($92M)** and **December ($86M)**.
+- **March ($57M)** and **February ($61M)** have the lowest sales.
+- **October ($64M)** and **November ($68M)** are slightly below the annual average.
+- Average monthly sales hover around **$75M**, with **May ($81M)** and **June ($75M)** just above the baseline.
+
+### 3. Total Units Sold by Product
+- **Men’s Street Footwear** tops with **593K units sold**.
+- **Men’s Athletic Footwear (436K)** and **Women’s Apparel (434K)** follow closely.
+- **Women’s Street Footwear (392K)** and **Women’s Athletic Footwear (317K)** also perform well.
+- **Men’s Apparel** is the lowest-selling category at **307K units**.
+
+### 4. Sales by Retailer and Sales Method
+- **West Gear** leads with **$243M**, dominated by **in-store sales ($157M)**.
+- **Foot Locker** shows a balanced mix: in-store, online, and outlet channels each contribute over **$70M**.
+- **Sports Direct** and **Kohl's** rely heavily on **outlet sales** ($68M and $42M).
+- **Amazon** is mostly **online-focused**, while **Walmart** shows low in-store and online figures but performs better in **outlet** ($43M).
+
+### 5. Sales by Region
+- **West** has the highest sales at **$269.9M** (30% of total).
+- **Northeast** follows with **$186.3M** (21%), together comprising nearly **half of total sales**.
+- **Southeast ($163.2M)** and **South ($144.7M)** follow.
+- **Midwest** records the lowest at **$135.8M** (15%).
+
+### 6. Geographic Sales Overview
+- **New York** leads with **$64.2M** in sales and **169K units sold**, followed by **California ($60.2M)**, **Florida ($59.3M)**, and **Texas ($46.4M)**.
+- These four states account for a substantial portion of national sales and volume.
+- **South Carolina ($29.3M)** and **Washington ($26.3M)** fall mid-range.
+- **Nebraska ($5.9M, 19K units)**, **Minnesota ($7.4M)**, and **Iowa ($7.4M)** are the **bottom three states**, with sales under $8M and low unit volumes.
+
+---
+
+##  Recommendations
+
+### 1. Sales Channel Optimization
+- **Reinforce In-Store Dominance:** Continue investing in in-store marketing, especially with top-performing retailers like West Gear and Foot Locker.
+- **Strengthen Online Channels:** Boost digital sales for Amazon and Walmart through SEO, online exclusives, and targeted advertising.
+
+### 2. Product Strategy
+- **Double Down on Footwear:** Focus on best-sellers like Men’s Street and Athletic Footwear through bundles and seasonal drops.
+- **Reposition Men’s Apparel:** Improve performance via pricing adjustments or refreshed marketing campaigns.
+
+### 3. Regional Expansion
+- **Scale High-Yield Markets:** Allocate more resources to the **West** and **Northeast**, which drive nearly half of total revenue.
+- **Lift Midwest Presence:** Run local campaigns or expand distribution in underperforming Midwest states.
+
+### 4. Seasonal Campaigns
+- **Capitalize on Peak Months (July & December):** Align promotions and launches with periods of high demand.
+- **Stimulate Low Months (March & October):** Use targeted discounts or new product releases to drive traffic.
+
+---
+
+##  Contact
+
+For questions, collaboration, or dataset access, feel free to reach out:
+
+**Evita Negara**  
+evitanegara@gmail.com

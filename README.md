@@ -30,11 +30,21 @@ The dataset contains transactional-level records with the following structure:
 
 ---
 
-## 📈 Executive Summary
+## Executive Summary
 
 The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units sold**, with an **operating profit of $332M**. Key sales are driven through in-store methods, with top-performing products being men's footwear. Geographically, the Northeast and West regions account for nearly half of the total revenue. This dashboard enables a deeper understanding of product and channel-level performance for data-driven retail decision-making.
 
 ---
+## Visualizations
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53a8ef1b-1458-410b-b3da-28b8a4aa9870" alt="Adidas Sales Dashboard Page 1" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6fe03438-fee5-4360-92a8-7c26e640d809" alt="Adidas Sales Dashboard Page 2" width="700"/>
+</p>
+
+
 
 ##  Insights Deep-Dive
 
@@ -44,36 +54,51 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **Sports Direct** generates **$182M**, mainly from **Men’s Athletic Footwear ($39M)** and **Women’s Apparel ($37M)**.
 - **Kohl’s** records **$102M**, led by **Women’s Apparel ($20M)** and **Men’s Street Footwear ($28M)**.
 - **Amazon** and **Walmart** trail behind with total sales around **$78M** and **$75M** respectively.
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d1e62b8-1cde-4573-b64e-90afc94d2681" alt="Adidas Sales KPI Overview" width="700"/>
+</p>
+
+
 
 ### 2. Monthly Sales Trend
 - **July** is the peak month at **$95M**, followed by **August ($92M)** and **December ($86M)**.
 - **March ($57M)** and **February ($61M)** have the lowest sales.
 - **October ($64M)** and **November ($68M)** are slightly below the annual average.
 - Average monthly sales hover around **$75M**, with **May ($81M)** and **June ($75M)** just above the baseline.
+  ![image](https://github.com/user-attachments/assets/5f309d55-e8b1-4f2c-8a3b-202393575381)
+
 
 ### 3. Total Units Sold by Product
 - **Men’s Street Footwear** tops with **593K units sold**.
 - **Men’s Athletic Footwear (436K)** and **Women’s Apparel (434K)** follow closely.
 - **Women’s Street Footwear (392K)** and **Women’s Athletic Footwear (317K)** also perform well.
 - **Men’s Apparel** is the lowest-selling category at **307K units**.
+- ![image](https://github.com/user-attachments/assets/495b4f0e-ef54-4a5c-bfbc-9b6cbd6e8c6b)
+
 
 ### 4. Sales by Retailer and Sales Method
 - **West Gear** leads with **$243M**, dominated by **in-store sales ($157M)**.
 - **Foot Locker** shows a balanced mix: in-store, online, and outlet channels each contribute over **$70M**.
 - **Sports Direct** and **Kohl's** rely heavily on **outlet sales** ($68M and $42M).
 - **Amazon** is mostly **online-focused**, while **Walmart** shows low in-store and online figures but performs better in **outlet** ($43M).
+  ![image](https://github.com/user-attachments/assets/0428fef6-cd29-49bf-9d7b-951ae8d64ede)
+
 
 ### 5. Sales by Region
 - **West** has the highest sales at **$269.9M** (30% of total).
 - **Northeast** follows with **$186.3M** (21%), together comprising nearly **half of total sales**.
 - **Southeast ($163.2M)** and **South ($144.7M)** follow.
 - **Midwest** records the lowest at **$135.8M** (15%).
+  ![image](https://github.com/user-attachments/assets/0317d28c-e9a1-4d65-aec0-8cb5eef6dadc)
+
 
 ### 6. Geographic Sales Overview
 - **New York** leads with **$64.2M** in sales and **169K units sold**, followed by **California ($60.2M)**, **Florida ($59.3M)**, and **Texas ($46.4M)**.
 - These four states account for a substantial portion of national sales and volume.
 - **South Carolina ($29.3M)** and **Washington ($26.3M)** fall mid-range.
 - **Nebraska ($5.9M, 19K units)**, **Minnesota ($7.4M)**, and **Iowa ($7.4M)** are the **bottom three states**, with sales under $8M and low unit volumes.
+![image](https://github.com/user-attachments/assets/ddaa449e-b9aa-4388-8bbb-4fd6d960520c)
 
 ---
 

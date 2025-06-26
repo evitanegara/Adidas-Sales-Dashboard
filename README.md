@@ -56,8 +56,9 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **Amazon** and **Walmart** trail behind with total sales around **$78M** and **$75M** respectively.
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0792f0e3-ecf8-4de4-a349-11fb9549af92" alt="Adidas Sales Trend Visual" width="700"/>
+  <img src="https://github.com/user-attachments/assets/6e88a4dc-0b58-4073-b503-e7aba851425c" alt="Adidas Units Sold by Product" width="700"/>
 </p>
+
 
 
 

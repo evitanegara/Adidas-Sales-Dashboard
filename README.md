@@ -59,10 +59,6 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
   <img src="https://github.com/user-attachments/assets/c0952fbe-312e-4494-8296-ad225793febf" alt="Adidas Units Sold by Product" width="700"/>
 </p>
 
-![image](https://github.com/user-attachments/assets/c0952fbe-312e-4494-8296-ad225793febf)
-
-
-
 
 ### 2. Monthly Sales Trend
 - **July** is the peak month at **$95M**, followed by **August ($92M)** and **December ($86M)**.
@@ -70,7 +66,7 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **October ($64M)** and **November ($68M)** are slightly below the annual average.
 - Average monthly sales hover around **$75M**, with **May ($81M)** and **June ($75M)** just above the baseline.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc015aba-73a9-45f0-ab64-10153e23cd10" alt="Adidas Bottom States by Sales and Units" width="700"/>
+  <img src="https://github.com/user-attachments/assets/81883d88-13d3-460e-a876-c852144bec65" alt="Adidas Bottom States by Sales and Units" width="700"/>
 </p>
 
 

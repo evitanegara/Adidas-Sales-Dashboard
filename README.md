@@ -78,8 +78,9 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **Women’s Street Footwear (392K)** and **Women’s Athletic Footwear (317K)** also perform well.
 - **Men’s Apparel** is the lowest-selling category at **307K units**.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23dce29d-ffb7-44b0-b248-17adbc812bb1" alt="Adidas State-Level Sales and Units" width="700"/>
+  <img src="https://github.com/user-attachments/assets/bf7a2c2b-8fe0-4cdc-be50-967676c05110" alt="Adidas State-Level Sales and Units" width="700"/>
 </p>
+
 
 
 
@@ -90,9 +91,8 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **Sports Direct** and **Kohl's** rely heavily on **outlet sales** ($68M and $42M).
 - **Amazon** is mostly **online-focused**, while **Walmart** shows low in-store and online figures but performs better in **outlet** ($43M).
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/474a0821-4cee-4f7c-aaed-2a34ed344b95" alt="Adidas Geographic Sales Overview" width="700"/>
+  <img src="https://github.com/user-attachments/assets/97471af7-7357-4f73-8bbb-6790de57eea9" width="700"/>
 </p>
-
 
 
 
@@ -102,8 +102,9 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **Southeast ($163.2M)** and **South ($144.7M)** follow.
 - **Midwest** records the lowest at **$135.8M** (15%).
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/96b0dc4c-b39f-43ea-ab64-d0f8e0f78a79" alt="Adidas Sales by Retailer and Channel" width="700"/>
+  <img src="https://github.com/user-attachments/assets/54d06db6-2b45-4d00-bca1-39866641006c" width="700"/>
 </p>
+
 
 
 
@@ -114,7 +115,7 @@ The Adidas Sales Dashboard analyzes **$899.9M** in total revenue from **2M units
 - **South Carolina ($29.3M)** and **Washington ($26.3M)** fall mid-range.
 - **Nebraska ($5.9M, 19K units)**, **Minnesota ($7.4M)**, and **Iowa ($7.4M)** are the **bottom three states**, with sales under $8M and low unit volumes.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1be476d2-58fc-4515-a42c-64ce98e55579" alt="Adidas Sales by Region" width="700"/>
+  <img src="https://github.com/user-attachments/assets/47a57467-77ca-4ba4-ac3c-f705ed854eed" alt="Adidas Sales by Region" width="700"/>
 </p>
 
 
